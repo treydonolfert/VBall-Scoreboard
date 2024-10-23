@@ -1,0 +1,8 @@
+﻿  App.cpp
+  MainFrame.cpp
+  SubFrame.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 480 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VBallScoreboard.vcxproj -> C:\Users\treyd\Desktop\VBall-Scoreboard\VBallScoreboard\x64\Release\VBallScoreboard.exe
